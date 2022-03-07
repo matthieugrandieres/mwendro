@@ -3,6 +3,8 @@
 
 En constant échange avec le client (jira, zoom, mail), ma mission sur ce projet a été d’intégrer la maquette graphique créé en amont par un designer web sous wordpress et développer les fonctionnalités demandées. 
 
+👥 Equipe : Seul
+
 **Technologies :**
 
 - HTML/CSS
